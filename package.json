@@ -1,0 +1,1 @@
+{"private":true,"scripts":{"dev":"PORT=4173 /usr/bin/python3 -m marketsim.server"}}

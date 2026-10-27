@@ -1,0 +1,25 @@
+{
+  "platform": "Linux-6.18.55-x86_64-with-glibc2.39",
+  "python": "3.12.14",
+  "method": "Alternating insert/cancel commands across 100 prices, 100 lots per order; IDs retained, no executions. perf_counter wall time; one measured run per size. Total retained ID memory grows linearly.",
+  "runs": [
+    {
+      "events": 10000,
+      "seconds": 0.37204801799998677,
+      "events_per_second": 26878.25096813271,
+      "microseconds_per_event": 37.20480179999868
+    },
+    {
+      "events": 100000,
+      "seconds": 1.2815950350000094,
+      "events_per_second": 78027.76795245564,
+      "microseconds_per_event": 12.815950350000094
+    },
+    {
+      "events": 1000000,
+      "seconds": 9.889944123999953,
+      "events_per_second": 101112.80584217836,
+      "microseconds_per_event": 9.889944123999953
+    }
+  ]
+}

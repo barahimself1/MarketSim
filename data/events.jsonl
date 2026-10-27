@@ -1,0 +1,500 @@
+{"sequence": 1, "timestamp_ms": 0, "type": "LIMIT", "order_id": "E1", "side": "BUY", "quantity": 1554, "price": 9999}
+{"sequence": 2, "timestamp_ms": 100, "type": "LIMIT", "order_id": "E2", "side": "SELL", "quantity": 1014, "price": 10001}
+{"sequence": 3, "timestamp_ms": 200, "type": "LIMIT", "order_id": "E3", "side": "BUY", "quantity": 925, "price": 9998}
+{"sequence": 4, "timestamp_ms": 300, "type": "LIMIT", "order_id": "E4", "side": "SELL", "quantity": 1659, "price": 10002}
+{"sequence": 5, "timestamp_ms": 400, "type": "LIMIT", "order_id": "E5", "side": "BUY", "quantity": 1181, "price": 9997}
+{"sequence": 6, "timestamp_ms": 500, "type": "LIMIT", "order_id": "E6", "side": "SELL", "quantity": 1150, "price": 10003}
+{"sequence": 7, "timestamp_ms": 600, "type": "LIMIT", "order_id": "E7", "side": "BUY", "quantity": 1128, "price": 9996}
+{"sequence": 8, "timestamp_ms": 700, "type": "LIMIT", "order_id": "E8", "side": "SELL", "quantity": 1042, "price": 10004}
+{"sequence": 9, "timestamp_ms": 800, "type": "LIMIT", "order_id": "E9", "side": "BUY", "quantity": 1654, "price": 9995}
+{"sequence": 10, "timestamp_ms": 900, "type": "LIMIT", "order_id": "E10", "side": "SELL", "quantity": 1004, "price": 10005}
+{"sequence": 11, "timestamp_ms": 1000, "type": "LIMIT", "order_id": "E11", "side": "BUY", "quantity": 1592, "price": 9994}
+{"sequence": 12, "timestamp_ms": 1100, "type": "LIMIT", "order_id": "E12", "side": "SELL", "quantity": 1658, "price": 10006}
+{"sequence": 13, "timestamp_ms": 1200, "type": "LIMIT", "order_id": "E13", "side": "BUY", "quantity": 1458, "price": 9993}
+{"sequence": 14, "timestamp_ms": 1300, "type": "LIMIT", "order_id": "E14", "side": "SELL", "quantity": 989, "price": 10007}
+{"sequence": 15, "timestamp_ms": 1400, "type": "LIMIT", "order_id": "E15", "side": "BUY", "quantity": 1504, "price": 9992}
+{"sequence": 16, "timestamp_ms": 1500, "type": "LIMIT", "order_id": "E16", "side": "SELL", "quantity": 1332, "price": 10008}
+{"sequence": 17, "timestamp_ms": 1600, "type": "LIMIT", "order_id": "E17", "side": "BUY", "quantity": 932, "price": 9991}
+{"sequence": 18, "timestamp_ms": 1700, "type": "LIMIT", "order_id": "E18", "side": "SELL", "quantity": 930, "price": 10009}
+{"sequence": 19, "timestamp_ms": 1800, "type": "LIMIT", "order_id": "E19", "side": "BUY", "quantity": 995, "price": 9990}
+{"sequence": 20, "timestamp_ms": 1900, "type": "LIMIT", "order_id": "E20", "side": "SELL", "quantity": 1123, "price": 10010}
+{"sequence": 21, "timestamp_ms": 2000, "type": "MARKET", "order_id": "E21", "side": "SELL", "quantity": 1169, "price": null}
+{"sequence": 22, "timestamp_ms": 2100, "type": "MARKET", "order_id": "E22", "side": "SELL", "quantity": 1136, "price": null}
+{"sequence": 23, "timestamp_ms": 2200, "type": "LIMIT", "order_id": "E23", "side": "SELL", "quantity": 314, "price": 10009}
+{"sequence": 24, "timestamp_ms": 2300, "type": "LIMIT", "order_id": "E24", "side": "BUY", "quantity": 744, "price": 9996}
+{"sequence": 25, "timestamp_ms": 2400, "type": "LIMIT", "order_id": "E25", "side": "SELL", "quantity": 250, "price": 10002}
+{"sequence": 26, "timestamp_ms": 2500, "type": "LIMIT", "order_id": "E26", "side": "SELL", "quantity": 124, "price": 10001}
+{"sequence": 27, "timestamp_ms": 2600, "type": "MARKET", "order_id": "E27", "side": "BUY", "quantity": 724, "price": null}
+{"sequence": 28, "timestamp_ms": 2700, "type": "LIMIT", "order_id": "E28", "side": "BUY", "quantity": 579, "price": 9991}
+{"sequence": 29, "timestamp_ms": 2800, "type": "CANCEL", "order_id": "E14"}
+{"sequence": 30, "timestamp_ms": 2900, "type": "CANCEL", "order_id": "E11"}
+{"sequence": 31, "timestamp_ms": 3000, "type": "LIMIT", "order_id": "E31", "side": "SELL", "quantity": 226, "price": 10009}
+{"sequence": 32, "timestamp_ms": 3100, "type": "LIMIT", "order_id": "E32", "side": "BUY", "quantity": 821, "price": 9995}
+{"sequence": 33, "timestamp_ms": 3200, "type": "MARKET", "order_id": "E33", "side": "BUY", "quantity": 496, "price": null}
+{"sequence": 34, "timestamp_ms": 3300, "type": "LIMIT", "order_id": "E34", "side": "SELL", "quantity": 494, "price": 10005}
+{"sequence": 35, "timestamp_ms": 3400, "type": "LIMIT", "order_id": "E35", "side": "SELL", "quantity": 409, "price": 10003}
+{"sequence": 36, "timestamp_ms": 3500, "type": "MARKET", "order_id": "E36", "side": "SELL", "quantity": 1457, "price": null}
+{"sequence": 37, "timestamp_ms": 3600, "type": "LIMIT", "order_id": "E37", "side": "BUY", "quantity": 680, "price": 9989}
+{"sequence": 38, "timestamp_ms": 3700, "type": "MARKET", "order_id": "E38", "side": "SELL", "quantity": 354, "price": null}
+{"sequence": 39, "timestamp_ms": 3800, "type": "LIMIT", "order_id": "E39", "side": "SELL", "quantity": 254, "price": 10008}
+{"sequence": 40, "timestamp_ms": 3900, "type": "LIMIT", "order_id": "E40", "side": "BUY", "quantity": 871, "price": 9995}
+{"sequence": 41, "timestamp_ms": 4000, "type": "CANCEL", "order_id": "E17"}
+{"sequence": 42, "timestamp_ms": 4100, "type": "LIMIT", "order_id": "E42", "side": "BUY", "quantity": 610, "price": 9995}
+{"sequence": 43, "timestamp_ms": 4200, "type": "LIMIT", "order_id": "E43", "side": "SELL", "quantity": 701, "price": 10003}
+{"sequence": 44, "timestamp_ms": 4300, "type": "LIMIT", "order_id": "E44", "side": "SELL", "quantity": 301, "price": 10002}
+{"sequence": 45, "timestamp_ms": 4400, "type": "CANCEL", "order_id": "E40"}
+{"sequence": 46, "timestamp_ms": 4500, "type": "LIMIT", "order_id": "E46", "side": "SELL", "quantity": 468, "price": 10009}
+{"sequence": 47, "timestamp_ms": 4600, "type": "LIMIT", "order_id": "E47", "side": "SELL", "quantity": 254, "price": 10005}
+{"sequence": 48, "timestamp_ms": 4700, "type": "LIMIT", "order_id": "E48", "side": "BUY", "quantity": 535, "price": 9990}
+{"sequence": 49, "timestamp_ms": 4800, "type": "CANCEL", "order_id": "E6"}
+{"sequence": 50, "timestamp_ms": 4900, "type": "LIMIT", "order_id": "E50", "side": "BUY", "quantity": 841, "price": 9996}
+{"sequence": 51, "timestamp_ms": 5000, "type": "LIMIT", "order_id": "E51", "side": "BUY", "quantity": 420, "price": 9992}
+{"sequence": 52, "timestamp_ms": 5100, "type": "LIMIT", "order_id": "E52", "side": "SELL", "quantity": 287, "price": 10008}
+{"sequence": 53, "timestamp_ms": 5200, "type": "LIMIT", "order_id": "E53", "side": "BUY", "quantity": 728, "price": 9997}
+{"sequence": 54, "timestamp_ms": 5300, "type": "LIMIT", "order_id": "E54", "side": "SELL", "quantity": 144, "price": 10005}
+{"sequence": 55, "timestamp_ms": 5400, "type": "MARKET", "order_id": "E55", "side": "BUY", "quantity": 26, "price": null}
+{"sequence": 56, "timestamp_ms": 5500, "type": "LIMIT", "order_id": "E56", "side": "SELL", "quantity": 810, "price": 10008}
+{"sequence": 57, "timestamp_ms": 5600, "type": "MARKET", "order_id": "E57", "side": "SELL", "quantity": 1300, "price": null}
+{"sequence": 58, "timestamp_ms": 5700, "type": "MARKET", "order_id": "E58", "side": "SELL", "quantity": 1267, "price": null}
+{"sequence": 59, "timestamp_ms": 5800, "type": "MARKET", "order_id": "E59", "side": "BUY", "quantity": 350, "price": null}
+{"sequence": 60, "timestamp_ms": 5900, "type": "LIMIT", "order_id": "E60", "side": "BUY", "quantity": 361, "price": 9989}
+{"sequence": 61, "timestamp_ms": 6000, "type": "LIMIT", "order_id": "E61", "side": "BUY", "quantity": 881, "price": 9993}
+{"sequence": 62, "timestamp_ms": 6100, "type": "LIMIT", "order_id": "E62", "side": "BUY", "quantity": 276, "price": 9998}
+{"sequence": 63, "timestamp_ms": 6200, "type": "LIMIT", "order_id": "E63", "side": "BUY", "quantity": 779, "price": 9998}
+{"sequence": 64, "timestamp_ms": 6300, "type": "LIMIT", "order_id": "E64", "side": "BUY", "quantity": 814, "price": 9991}
+{"sequence": 65, "timestamp_ms": 6400, "type": "CANCEL", "order_id": "E56"}
+{"sequence": 66, "timestamp_ms": 6500, "type": "LIMIT", "order_id": "E66", "side": "BUY", "quantity": 570, "price": 9995}
+{"sequence": 67, "timestamp_ms": 6600, "type": "LIMIT", "order_id": "E67", "side": "SELL", "quantity": 582, "price": 10004}
+{"sequence": 68, "timestamp_ms": 6700, "type": "LIMIT", "order_id": "E68", "side": "BUY", "quantity": 438, "price": 9995}
+{"sequence": 69, "timestamp_ms": 6800, "type": "LIMIT", "order_id": "E69", "side": "SELL", "quantity": 559, "price": 10008}
+{"sequence": 70, "timestamp_ms": 6900, "type": "LIMIT", "order_id": "E70", "side": "BUY", "quantity": 95, "price": 9996}
+{"sequence": 71, "timestamp_ms": 7000, "type": "MARKET", "order_id": "E71", "side": "SELL", "quantity": 491, "price": null}
+{"sequence": 72, "timestamp_ms": 7100, "type": "LIMIT", "order_id": "E72", "side": "BUY", "quantity": 754, "price": 9998}
+{"sequence": 73, "timestamp_ms": 7200, "type": "LIMIT", "order_id": "E73", "side": "BUY", "quantity": 62, "price": 9998}
+{"sequence": 74, "timestamp_ms": 7300, "type": "LIMIT", "order_id": "E74", "side": "BUY", "quantity": 273, "price": 9991}
+{"sequence": 75, "timestamp_ms": 7400, "type": "MARKET", "order_id": "E75", "side": "BUY", "quantity": 1124, "price": null}
+{"sequence": 76, "timestamp_ms": 7500, "type": "CANCEL", "order_id": "E68"}
+{"sequence": 77, "timestamp_ms": 7600, "type": "LIMIT", "order_id": "E77", "side": "BUY", "quantity": 856, "price": 9992}
+{"sequence": 78, "timestamp_ms": 7700, "type": "LIMIT", "order_id": "E78", "side": "BUY", "quantity": 704, "price": 9998}
+{"sequence": 79, "timestamp_ms": 7800, "type": "LIMIT", "order_id": "E79", "side": "SELL", "quantity": 508, "price": 10007}
+{"sequence": 80, "timestamp_ms": 7900, "type": "LIMIT", "order_id": "E80", "side": "BUY", "quantity": 92, "price": 9998}
+{"sequence": 81, "timestamp_ms": 8000, "type": "LIMIT", "order_id": "E81", "side": "SELL", "quantity": 284, "price": 10002}
+{"sequence": 82, "timestamp_ms": 8100, "type": "MARKET", "order_id": "E82", "side": "SELL", "quantity": 307, "price": null}
+{"sequence": 83, "timestamp_ms": 8200, "type": "LIMIT", "order_id": "E83", "side": "SELL", "quantity": 285, "price": 10008}
+{"sequence": 84, "timestamp_ms": 8300, "type": "LIMIT", "order_id": "E84", "side": "BUY", "quantity": 857, "price": 9992}
+{"sequence": 85, "timestamp_ms": 8400, "type": "LIMIT", "order_id": "E85", "side": "BUY", "quantity": 697, "price": 9999}
+{"sequence": 86, "timestamp_ms": 8500, "type": "LIMIT", "order_id": "E86", "side": "BUY", "quantity": 801, "price": 9998}
+{"sequence": 87, "timestamp_ms": 8600, "type": "LIMIT", "order_id": "E87", "side": "BUY", "quantity": 527, "price": 9993}
+{"sequence": 88, "timestamp_ms": 8700, "type": "LIMIT", "order_id": "E88", "side": "SELL", "quantity": 198, "price": 10001}
+{"sequence": 89, "timestamp_ms": 8800, "type": "MARKET", "order_id": "E89", "side": "SELL", "quantity": 563, "price": null}
+{"sequence": 90, "timestamp_ms": 8900, "type": "LIMIT", "order_id": "E90", "side": "SELL", "quantity": 463, "price": 10005}
+{"sequence": 91, "timestamp_ms": 9000, "type": "LIMIT", "order_id": "E91", "side": "SELL", "quantity": 224, "price": 10003}
+{"sequence": 92, "timestamp_ms": 9100, "type": "MARKET", "order_id": "E92", "side": "SELL", "quantity": 1206, "price": null}
+{"sequence": 93, "timestamp_ms": 9200, "type": "LIMIT", "order_id": "E93", "side": "BUY", "quantity": 88, "price": 9993}
+{"sequence": 94, "timestamp_ms": 9300, "type": "CANCEL", "order_id": "E60"}
+{"sequence": 95, "timestamp_ms": 9400, "type": "LIMIT", "order_id": "E95", "side": "BUY", "quantity": 550, "price": 9998}
+{"sequence": 96, "timestamp_ms": 9500, "type": "CANCEL", "order_id": "E23"}
+{"sequence": 97, "timestamp_ms": 9600, "type": "CANCEL", "order_id": "E12"}
+{"sequence": 98, "timestamp_ms": 9700, "type": "LIMIT", "order_id": "E98", "side": "BUY", "quantity": 152, "price": 9992}
+{"sequence": 99, "timestamp_ms": 9800, "type": "LIMIT", "order_id": "E99", "side": "BUY", "quantity": 638, "price": 9989}
+{"sequence": 100, "timestamp_ms": 9900, "type": "CANCEL", "order_id": "E15"}
+{"sequence": 101, "timestamp_ms": 10000, "type": "LIMIT", "order_id": "E101", "side": "SELL", "quantity": 239, "price": 10004}
+{"sequence": 102, "timestamp_ms": 10100, "type": "LIMIT", "order_id": "E102", "side": "SELL", "quantity": 301, "price": 10003}
+{"sequence": 103, "timestamp_ms": 10200, "type": "MARKET", "order_id": "E103", "side": "SELL", "quantity": 634, "price": null}
+{"sequence": 104, "timestamp_ms": 10300, "type": "LIMIT", "order_id": "E104", "side": "BUY", "quantity": 499, "price": 9998}
+{"sequence": 105, "timestamp_ms": 10400, "type": "LIMIT", "order_id": "E105", "side": "BUY", "quantity": 580, "price": 9997}
+{"sequence": 106, "timestamp_ms": 10500, "type": "MARKET", "order_id": "E106", "side": "BUY", "quantity": 734, "price": null}
+{"sequence": 107, "timestamp_ms": 10600, "type": "LIMIT", "order_id": "E107", "side": "BUY", "quantity": 321, "price": 9994}
+{"sequence": 108, "timestamp_ms": 10700, "type": "MARKET", "order_id": "E108", "side": "SELL", "quantity": 1460, "price": null}
+{"sequence": 109, "timestamp_ms": 10800, "type": "MARKET", "order_id": "E109", "side": "SELL", "quantity": 1672, "price": null}
+{"sequence": 110, "timestamp_ms": 10900, "type": "LIMIT", "order_id": "E110", "side": "BUY", "quantity": 336, "price": 9989}
+{"sequence": 111, "timestamp_ms": 11000, "type": "LIMIT", "order_id": "E111", "side": "BUY", "quantity": 300, "price": 9995}
+{"sequence": 112, "timestamp_ms": 11100, "type": "CANCEL", "order_id": "E19"}
+{"sequence": 113, "timestamp_ms": 11200, "type": "LIMIT", "order_id": "E113", "side": "BUY", "quantity": 318, "price": 9993}
+{"sequence": 114, "timestamp_ms": 11300, "type": "LIMIT", "order_id": "E114", "side": "SELL", "quantity": 733, "price": 10002}
+{"sequence": 115, "timestamp_ms": 11400, "type": "LIMIT", "order_id": "E115", "side": "SELL", "quantity": 530, "price": 10007}
+{"sequence": 116, "timestamp_ms": 11500, "type": "MARKET", "order_id": "E116", "side": "SELL", "quantity": 124, "price": null}
+{"sequence": 117, "timestamp_ms": 11600, "type": "CANCEL", "order_id": "E69"}
+{"sequence": 118, "timestamp_ms": 11700, "type": "LIMIT", "order_id": "E118", "side": "BUY", "quantity": 371, "price": 9997}
+{"sequence": 119, "timestamp_ms": 11800, "type": "LIMIT", "order_id": "E119", "side": "SELL", "quantity": 789, "price": 10002}
+{"sequence": 120, "timestamp_ms": 11900, "type": "LIMIT", "order_id": "E120", "side": "SELL", "quantity": 39, "price": 10008}
+{"sequence": 121, "timestamp_ms": 12000, "type": "CANCEL", "order_id": "E113"}
+{"sequence": 122, "timestamp_ms": 12100, "type": "LIMIT", "order_id": "E122", "side": "BUY", "quantity": 626, "price": 9993}
+{"sequence": 123, "timestamp_ms": 12200, "type": "LIMIT", "order_id": "E123", "side": "SELL", "quantity": 72, "price": 10002}
+{"sequence": 124, "timestamp_ms": 12300, "type": "MARKET", "order_id": "E124", "side": "SELL", "quantity": 1650, "price": null}
+{"sequence": 125, "timestamp_ms": 12400, "type": "LIMIT", "order_id": "E125", "side": "BUY", "quantity": 245, "price": 9992}
+{"sequence": 126, "timestamp_ms": 12500, "type": "LIMIT", "order_id": "E126", "side": "BUY", "quantity": 828, "price": 9992}
+{"sequence": 127, "timestamp_ms": 12600, "type": "LIMIT", "order_id": "E127", "side": "SELL", "quantity": 797, "price": 10008}
+{"sequence": 128, "timestamp_ms": 12700, "type": "MARKET", "order_id": "E128", "side": "SELL", "quantity": 1790, "price": null}
+{"sequence": 129, "timestamp_ms": 12800, "type": "MARKET", "order_id": "E129", "side": "SELL", "quantity": 382, "price": null}
+{"sequence": 130, "timestamp_ms": 12900, "type": "LIMIT", "order_id": "E130", "side": "BUY", "quantity": 784, "price": 9995}
+{"sequence": 131, "timestamp_ms": 13000, "type": "LIMIT", "order_id": "E131", "side": "SELL", "quantity": 303, "price": 10002}
+{"sequence": 132, "timestamp_ms": 13100, "type": "MARKET", "order_id": "E132", "side": "SELL", "quantity": 803, "price": null}
+{"sequence": 133, "timestamp_ms": 13200, "type": "LIMIT", "order_id": "E133", "side": "SELL", "quantity": 234, "price": 10002}
+{"sequence": 134, "timestamp_ms": 13300, "type": "LIMIT", "order_id": "E134", "side": "SELL", "quantity": 342, "price": 10004}
+{"sequence": 135, "timestamp_ms": 13400, "type": "LIMIT", "order_id": "E135", "side": "BUY", "quantity": 54, "price": 9994}
+{"sequence": 136, "timestamp_ms": 13500, "type": "LIMIT", "order_id": "E136", "side": "SELL", "quantity": 315, "price": 10004}
+{"sequence": 137, "timestamp_ms": 13600, "type": "LIMIT", "order_id": "E137", "side": "SELL", "quantity": 686, "price": 10004}
+{"sequence": 138, "timestamp_ms": 13700, "type": "LIMIT", "order_id": "E138", "side": "SELL", "quantity": 148, "price": 9999}
+{"sequence": 139, "timestamp_ms": 13800, "type": "LIMIT", "order_id": "E139", "side": "SELL", "quantity": 624, "price": 10000}
+{"sequence": 140, "timestamp_ms": 13900, "type": "LIMIT", "order_id": "E140", "side": "SELL", "quantity": 141, "price": 9998}
+{"sequence": 141, "timestamp_ms": 14000, "type": "LIMIT", "order_id": "E141", "side": "SELL", "quantity": 476, "price": 10002}
+{"sequence": 142, "timestamp_ms": 14100, "type": "LIMIT", "order_id": "E142", "side": "BUY", "quantity": 620, "price": 9989}
+{"sequence": 143, "timestamp_ms": 14200, "type": "MARKET", "order_id": "E143", "side": "BUY", "quantity": 913, "price": null}
+{"sequence": 144, "timestamp_ms": 14300, "type": "CANCEL", "order_id": "E134"}
+{"sequence": 145, "timestamp_ms": 14400, "type": "LIMIT", "order_id": "E145", "side": "BUY", "quantity": 471, "price": 9992}
+{"sequence": 146, "timestamp_ms": 14500, "type": "CANCEL", "order_id": "E120"}
+{"sequence": 147, "timestamp_ms": 14600, "type": "LIMIT", "order_id": "E147", "side": "SELL", "quantity": 767, "price": 10000}
+{"sequence": 148, "timestamp_ms": 14700, "type": "LIMIT", "order_id": "E148", "side": "SELL", "quantity": 364, "price": 10004}
+{"sequence": 149, "timestamp_ms": 14800, "type": "LIMIT", "order_id": "E149", "side": "SELL", "quantity": 160, "price": 10006}
+{"sequence": 150, "timestamp_ms": 14900, "type": "MARKET", "order_id": "E150", "side": "SELL", "quantity": 796, "price": null}
+{"sequence": 151, "timestamp_ms": 15000, "type": "LIMIT", "order_id": "E151", "side": "BUY", "quantity": 612, "price": 9986}
+{"sequence": 152, "timestamp_ms": 15100, "type": "MARKET", "order_id": "E152", "side": "SELL", "quantity": 20, "price": null}
+{"sequence": 153, "timestamp_ms": 15200, "type": "MARKET", "order_id": "E153", "side": "BUY", "quantity": 1629, "price": null}
+{"sequence": 154, "timestamp_ms": 15300, "type": "LIMIT", "order_id": "E154", "side": "SELL", "quantity": 482, "price": 10005}
+{"sequence": 155, "timestamp_ms": 15400, "type": "LIMIT", "order_id": "E155", "side": "BUY", "quantity": 514, "price": 9988}
+{"sequence": 156, "timestamp_ms": 15500, "type": "LIMIT", "order_id": "E156", "side": "BUY", "quantity": 320, "price": 9995}
+{"sequence": 157, "timestamp_ms": 15600, "type": "LIMIT", "order_id": "E157", "side": "SELL", "quantity": 868, "price": 10000}
+{"sequence": 158, "timestamp_ms": 15700, "type": "LIMIT", "order_id": "E158", "side": "BUY", "quantity": 260, "price": 9992}
+{"sequence": 159, "timestamp_ms": 15800, "type": "LIMIT", "order_id": "E159", "side": "BUY", "quantity": 77, "price": 9996}
+{"sequence": 160, "timestamp_ms": 15900, "type": "MARKET", "order_id": "E160", "side": "BUY", "quantity": 1760, "price": null}
+{"sequence": 161, "timestamp_ms": 16000, "type": "LIMIT", "order_id": "E161", "side": "SELL", "quantity": 674, "price": 10006}
+{"sequence": 162, "timestamp_ms": 16100, "type": "LIMIT", "order_id": "E162", "side": "SELL", "quantity": 439, "price": 10007}
+{"sequence": 163, "timestamp_ms": 16200, "type": "MARKET", "order_id": "E163", "side": "SELL", "quantity": 31, "price": null}
+{"sequence": 164, "timestamp_ms": 16300, "type": "LIMIT", "order_id": "E164", "side": "BUY", "quantity": 254, "price": 9992}
+{"sequence": 165, "timestamp_ms": 16400, "type": "MARKET", "order_id": "E165", "side": "SELL", "quantity": 1080, "price": null}
+{"sequence": 166, "timestamp_ms": 16500, "type": "LIMIT", "order_id": "E166", "side": "BUY", "quantity": 497, "price": 9995}
+{"sequence": 167, "timestamp_ms": 16600, "type": "CANCEL", "order_id": "E91"}
+{"sequence": 168, "timestamp_ms": 16700, "type": "LIMIT", "order_id": "E168", "side": "SELL", "quantity": 657, "price": 10006}
+{"sequence": 169, "timestamp_ms": 16800, "type": "LIMIT", "order_id": "E169", "side": "SELL", "quantity": 486, "price": 10007}
+{"sequence": 170, "timestamp_ms": 16900, "type": "LIMIT", "order_id": "E170", "side": "SELL", "quantity": 295, "price": 10006}
+{"sequence": 171, "timestamp_ms": 17000, "type": "LIMIT", "order_id": "E171", "side": "SELL", "quantity": 526, "price": 10007}
+{"sequence": 172, "timestamp_ms": 17100, "type": "LIMIT", "order_id": "E172", "side": "SELL", "quantity": 109, "price": 10006}
+{"sequence": 173, "timestamp_ms": 17200, "type": "LIMIT", "order_id": "E173", "side": "BUY", "quantity": 373, "price": 9993}
+{"sequence": 174, "timestamp_ms": 17300, "type": "MARKET", "order_id": "E174", "side": "SELL", "quantity": 303, "price": null}
+{"sequence": 175, "timestamp_ms": 17400, "type": "MARKET", "order_id": "E175", "side": "BUY", "quantity": 332, "price": null}
+{"sequence": 176, "timestamp_ms": 17500, "type": "LIMIT", "order_id": "E176", "side": "BUY", "quantity": 447, "price": 9991}
+{"sequence": 177, "timestamp_ms": 17600, "type": "MARKET", "order_id": "E177", "side": "BUY", "quantity": 147, "price": null}
+{"sequence": 178, "timestamp_ms": 17700, "type": "MARKET", "order_id": "E178", "side": "BUY", "quantity": 1596, "price": null}
+{"sequence": 179, "timestamp_ms": 17800, "type": "LIMIT", "order_id": "E179", "side": "BUY", "quantity": 419, "price": 9989}
+{"sequence": 180, "timestamp_ms": 17900, "type": "LIMIT", "order_id": "E180", "side": "SELL", "quantity": 801, "price": 10004}
+{"sequence": 181, "timestamp_ms": 18000, "type": "MARKET", "order_id": "E181", "side": "SELL", "quantity": 1731, "price": null}
+{"sequence": 182, "timestamp_ms": 18100, "type": "LIMIT", "order_id": "E182", "side": "BUY", "quantity": 254, "price": 9990}
+{"sequence": 183, "timestamp_ms": 18200, "type": "MARKET", "order_id": "E183", "side": "BUY", "quantity": 816, "price": null}
+{"sequence": 184, "timestamp_ms": 18300, "type": "MARKET", "order_id": "E184", "side": "SELL", "quantity": 848, "price": null}
+{"sequence": 185, "timestamp_ms": 18400, "type": "LIMIT", "order_id": "E185", "side": "SELL", "quantity": 667, "price": 10001}
+{"sequence": 186, "timestamp_ms": 18500, "type": "LIMIT", "order_id": "E186", "side": "SELL", "quantity": 607, "price": 10007}
+{"sequence": 187, "timestamp_ms": 18600, "type": "LIMIT", "order_id": "E187", "side": "BUY", "quantity": 168, "price": 9990}
+{"sequence": 188, "timestamp_ms": 18700, "type": "LIMIT", "order_id": "E188", "side": "BUY", "quantity": 296, "price": 9996}
+{"sequence": 189, "timestamp_ms": 18800, "type": "MARKET", "order_id": "E189", "side": "BUY", "quantity": 689, "price": null}
+{"sequence": 190, "timestamp_ms": 18900, "type": "MARKET", "order_id": "E190", "side": "SELL", "quantity": 589, "price": null}
+{"sequence": 191, "timestamp_ms": 19000, "type": "LIMIT", "order_id": "E191", "side": "SELL", "quantity": 884, "price": 10003}
+{"sequence": 192, "timestamp_ms": 19100, "type": "CANCEL", "order_id": "E10"}
+{"sequence": 193, "timestamp_ms": 19200, "type": "LIMIT", "order_id": "E193", "side": "BUY", "quantity": 259, "price": 9992}
+{"sequence": 194, "timestamp_ms": 19300, "type": "LIMIT", "order_id": "E194", "side": "BUY", "quantity": 283, "price": 9997}
+{"sequence": 195, "timestamp_ms": 19400, "type": "MARKET", "order_id": "E195", "side": "BUY", "quantity": 332, "price": null}
+{"sequence": 196, "timestamp_ms": 19500, "type": "MARKET", "order_id": "E196", "side": "BUY", "quantity": 254, "price": null}
+{"sequence": 197, "timestamp_ms": 19600, "type": "LIMIT", "order_id": "E197", "side": "BUY", "quantity": 746, "price": 9992}
+{"sequence": 198, "timestamp_ms": 19700, "type": "MARKET", "order_id": "E198", "side": "BUY", "quantity": 1260, "price": null}
+{"sequence": 199, "timestamp_ms": 19800, "type": "LIMIT", "order_id": "E199", "side": "BUY", "quantity": 348, "price": 9997}
+{"sequence": 200, "timestamp_ms": 19900, "type": "CANCEL", "order_id": "E18"}
+{"sequence": 201, "timestamp_ms": 20000, "type": "LIMIT", "order_id": "E201", "side": "SELL", "quantity": 762, "price": 10007}
+{"sequence": 202, "timestamp_ms": 20100, "type": "MARKET", "order_id": "E202", "side": "SELL", "quantity": 1721, "price": null}
+{"sequence": 203, "timestamp_ms": 20200, "type": "LIMIT", "order_id": "E203", "side": "BUY", "quantity": 900, "price": 9993}
+{"sequence": 204, "timestamp_ms": 20300, "type": "LIMIT", "order_id": "E204", "side": "BUY", "quantity": 831, "price": 9988}
+{"sequence": 205, "timestamp_ms": 20400, "type": "CANCEL", "order_id": "E151"}
+{"sequence": 206, "timestamp_ms": 20500, "type": "LIMIT", "order_id": "E206", "side": "SELL", "quantity": 548, "price": 10000}
+{"sequence": 207, "timestamp_ms": 20600, "type": "LIMIT", "order_id": "E207", "side": "BUY", "quantity": 872, "price": 9989}
+{"sequence": 208, "timestamp_ms": 20700, "type": "LIMIT", "order_id": "E208", "side": "SELL", "quantity": 680, "price": 10002}
+{"sequence": 209, "timestamp_ms": 20800, "type": "LIMIT", "order_id": "E209", "side": "SELL", "quantity": 475, "price": 9999}
+{"sequence": 210, "timestamp_ms": 20900, "type": "MARKET", "order_id": "E210", "side": "SELL", "quantity": 1352, "price": null}
+{"sequence": 211, "timestamp_ms": 21000, "type": "MARKET", "order_id": "E211", "side": "SELL", "quantity": 1122, "price": null}
+{"sequence": 212, "timestamp_ms": 21100, "type": "LIMIT", "order_id": "E212", "side": "SELL", "quantity": 875, "price": 10002}
+{"sequence": 213, "timestamp_ms": 21200, "type": "LIMIT", "order_id": "E213", "side": "SELL", "quantity": 281, "price": 10001}
+{"sequence": 214, "timestamp_ms": 21300, "type": "LIMIT", "order_id": "E214", "side": "BUY", "quantity": 491, "price": 9990}
+{"sequence": 215, "timestamp_ms": 21400, "type": "MARKET", "order_id": "E215", "side": "BUY", "quantity": 1269, "price": null}
+{"sequence": 216, "timestamp_ms": 21500, "type": "LIMIT", "order_id": "E216", "side": "SELL", "quantity": 536, "price": 9997}
+{"sequence": 217, "timestamp_ms": 21600, "type": "LIMIT", "order_id": "E217", "side": "BUY", "quantity": 247, "price": 9986}
+{"sequence": 218, "timestamp_ms": 21700, "type": "MARKET", "order_id": "E218", "side": "BUY", "quantity": 592, "price": null}
+{"sequence": 219, "timestamp_ms": 21800, "type": "LIMIT", "order_id": "E219", "side": "SELL", "quantity": 40, "price": 10006}
+{"sequence": 220, "timestamp_ms": 21900, "type": "LIMIT", "order_id": "E220", "side": "BUY", "quantity": 277, "price": 9995}
+{"sequence": 221, "timestamp_ms": 22000, "type": "LIMIT", "order_id": "E221", "side": "SELL", "quantity": 806, "price": 10007}
+{"sequence": 222, "timestamp_ms": 22100, "type": "MARKET", "order_id": "E222", "side": "BUY", "quantity": 1477, "price": null}
+{"sequence": 223, "timestamp_ms": 22200, "type": "LIMIT", "order_id": "E223", "side": "BUY", "quantity": 331, "price": 9996}
+{"sequence": 224, "timestamp_ms": 22300, "type": "MARKET", "order_id": "E224", "side": "SELL", "quantity": 647, "price": null}
+{"sequence": 225, "timestamp_ms": 22400, "type": "LIMIT", "order_id": "E225", "side": "SELL", "quantity": 596, "price": 10005}
+{"sequence": 226, "timestamp_ms": 22500, "type": "LIMIT", "order_id": "E226", "side": "SELL", "quantity": 368, "price": 10006}
+{"sequence": 227, "timestamp_ms": 22600, "type": "MARKET", "order_id": "E227", "side": "BUY", "quantity": 647, "price": null}
+{"sequence": 228, "timestamp_ms": 22700, "type": "MARKET", "order_id": "E228", "side": "BUY", "quantity": 414, "price": null}
+{"sequence": 229, "timestamp_ms": 22800, "type": "MARKET", "order_id": "E229", "side": "SELL", "quantity": 1580, "price": null}
+{"sequence": 230, "timestamp_ms": 22900, "type": "LIMIT", "order_id": "E230", "side": "BUY", "quantity": 786, "price": 9994}
+{"sequence": 231, "timestamp_ms": 23000, "type": "LIMIT", "order_id": "E231", "side": "SELL", "quantity": 882, "price": 10001}
+{"sequence": 232, "timestamp_ms": 23100, "type": "MARKET", "order_id": "E232", "side": "BUY", "quantity": 387, "price": null}
+{"sequence": 233, "timestamp_ms": 23200, "type": "MARKET", "order_id": "E233", "side": "SELL", "quantity": 279, "price": null}
+{"sequence": 234, "timestamp_ms": 23300, "type": "MARKET", "order_id": "E234", "side": "SELL", "quantity": 1153, "price": null}
+{"sequence": 235, "timestamp_ms": 23400, "type": "MARKET", "order_id": "E235", "side": "SELL", "quantity": 1326, "price": null}
+{"sequence": 236, "timestamp_ms": 23500, "type": "LIMIT", "order_id": "E236", "side": "SELL", "quantity": 42, "price": 9998}
+{"sequence": 237, "timestamp_ms": 23600, "type": "LIMIT", "order_id": "E237", "side": "SELL", "quantity": 481, "price": 10002}
+{"sequence": 238, "timestamp_ms": 23700, "type": "MARKET", "order_id": "E238", "side": "SELL", "quantity": 537, "price": null}
+{"sequence": 239, "timestamp_ms": 23800, "type": "LIMIT", "order_id": "E239", "side": "SELL", "quantity": 871, "price": 9996}
+{"sequence": 240, "timestamp_ms": 23900, "type": "CANCEL", "order_id": "E171"}
+{"sequence": 241, "timestamp_ms": 24000, "type": "CANCEL", "order_id": "E207"}
+{"sequence": 242, "timestamp_ms": 24100, "type": "LIMIT", "order_id": "E242", "side": "BUY", "quantity": 860, "price": 9990}
+{"sequence": 243, "timestamp_ms": 24200, "type": "LIMIT", "order_id": "E243", "side": "SELL", "quantity": 284, "price": 9995}
+{"sequence": 244, "timestamp_ms": 24300, "type": "CANCEL", "order_id": "E237"}
+{"sequence": 245, "timestamp_ms": 24400, "type": "LIMIT", "order_id": "E245", "side": "BUY", "quantity": 419, "price": 9984}
+{"sequence": 246, "timestamp_ms": 24500, "type": "LIMIT", "order_id": "E246", "side": "SELL", "quantity": 632, "price": 9998}
+{"sequence": 247, "timestamp_ms": 24600, "type": "LIMIT", "order_id": "E247", "side": "SELL", "quantity": 665, "price": 10003}
+{"sequence": 248, "timestamp_ms": 24700, "type": "CANCEL", "order_id": "E236"}
+{"sequence": 249, "timestamp_ms": 24800, "type": "CANCEL", "order_id": "E242"}
+{"sequence": 250, "timestamp_ms": 24900, "type": "MARKET", "order_id": "E250", "side": "BUY", "quantity": 1372, "price": null}
+{"sequence": 251, "timestamp_ms": 25000, "type": "CANCEL", "order_id": "E90"}
+{"sequence": 252, "timestamp_ms": 25100, "type": "MARKET", "order_id": "E252", "side": "BUY", "quantity": 25, "price": null}
+{"sequence": 253, "timestamp_ms": 25200, "type": "LIMIT", "order_id": "E253", "side": "SELL", "quantity": 63, "price": 9999}
+{"sequence": 254, "timestamp_ms": 25300, "type": "MARKET", "order_id": "E254", "side": "SELL", "quantity": 1459, "price": null}
+{"sequence": 255, "timestamp_ms": 25400, "type": "LIMIT", "order_id": "E255", "side": "BUY", "quantity": 300, "price": 9990}
+{"sequence": 256, "timestamp_ms": 25500, "type": "LIMIT", "order_id": "E256", "side": "BUY", "quantity": 147, "price": 9987}
+{"sequence": 257, "timestamp_ms": 25600, "type": "LIMIT", "order_id": "E257", "side": "BUY", "quantity": 876, "price": 9989}
+{"sequence": 258, "timestamp_ms": 25700, "type": "CANCEL", "order_id": "E34"}
+{"sequence": 259, "timestamp_ms": 25800, "type": "MARKET", "order_id": "E259", "side": "BUY", "quantity": 1553, "price": null}
+{"sequence": 260, "timestamp_ms": 25900, "type": "LIMIT", "order_id": "E260", "side": "SELL", "quantity": 157, "price": 10004}
+{"sequence": 261, "timestamp_ms": 26000, "type": "LIMIT", "order_id": "E261", "side": "SELL", "quantity": 308, "price": 10003}
+{"sequence": 262, "timestamp_ms": 26100, "type": "LIMIT", "order_id": "E262", "side": "SELL", "quantity": 112, "price": 10004}
+{"sequence": 263, "timestamp_ms": 26200, "type": "LIMIT", "order_id": "E263", "side": "SELL", "quantity": 648, "price": 10002}
+{"sequence": 264, "timestamp_ms": 26300, "type": "MARKET", "order_id": "E264", "side": "BUY", "quantity": 1400, "price": null}
+{"sequence": 265, "timestamp_ms": 26400, "type": "LIMIT", "order_id": "E265", "side": "BUY", "quantity": 620, "price": 9992}
+{"sequence": 266, "timestamp_ms": 26500, "type": "CANCEL", "order_id": "E83"}
+{"sequence": 267, "timestamp_ms": 26600, "type": "LIMIT", "order_id": "E267", "side": "SELL", "quantity": 215, "price": 10003}
+{"sequence": 268, "timestamp_ms": 26700, "type": "LIMIT", "order_id": "E268", "side": "SELL", "quantity": 123, "price": 10005}
+{"sequence": 269, "timestamp_ms": 26800, "type": "LIMIT", "order_id": "E269", "side": "SELL", "quantity": 358, "price": 10003}
+{"sequence": 270, "timestamp_ms": 26900, "type": "LIMIT", "order_id": "E270", "side": "BUY", "quantity": 451, "price": 9991}
+{"sequence": 271, "timestamp_ms": 27000, "type": "LIMIT", "order_id": "E271", "side": "SELL", "quantity": 863, "price": 10004}
+{"sequence": 272, "timestamp_ms": 27100, "type": "LIMIT", "order_id": "E272", "side": "BUY", "quantity": 120, "price": 9989}
+{"sequence": 273, "timestamp_ms": 27200, "type": "MARKET", "order_id": "E273", "side": "BUY", "quantity": 1602, "price": null}
+{"sequence": 274, "timestamp_ms": 27300, "type": "LIMIT", "order_id": "E274", "side": "BUY", "quantity": 503, "price": 9989}
+{"sequence": 275, "timestamp_ms": 27400, "type": "LIMIT", "order_id": "E275", "side": "BUY", "quantity": 400, "price": 9989}
+{"sequence": 276, "timestamp_ms": 27500, "type": "LIMIT", "order_id": "E276", "side": "SELL", "quantity": 808, "price": 10006}
+{"sequence": 277, "timestamp_ms": 27600, "type": "CANCEL", "order_id": "E154"}
+{"sequence": 278, "timestamp_ms": 27700, "type": "LIMIT", "order_id": "E278", "side": "SELL", "quantity": 745, "price": 10006}
+{"sequence": 279, "timestamp_ms": 27800, "type": "LIMIT", "order_id": "E279", "side": "BUY", "quantity": 848, "price": 9988}
+{"sequence": 280, "timestamp_ms": 27900, "type": "MARKET", "order_id": "E280", "side": "BUY", "quantity": 1148, "price": null}
+{"sequence": 281, "timestamp_ms": 28000, "type": "CANCEL", "order_id": "E186"}
+{"sequence": 282, "timestamp_ms": 28100, "type": "CANCEL", "order_id": "E48"}
+{"sequence": 283, "timestamp_ms": 28200, "type": "LIMIT", "order_id": "E283", "side": "BUY", "quantity": 540, "price": 9995}
+{"sequence": 284, "timestamp_ms": 28300, "type": "LIMIT", "order_id": "E284", "side": "SELL", "quantity": 752, "price": 10008}
+{"sequence": 285, "timestamp_ms": 28400, "type": "MARKET", "order_id": "E285", "side": "SELL", "quantity": 987, "price": null}
+{"sequence": 286, "timestamp_ms": 28500, "type": "MARKET", "order_id": "E286", "side": "SELL", "quantity": 805, "price": null}
+{"sequence": 287, "timestamp_ms": 28600, "type": "MARKET", "order_id": "E287", "side": "SELL", "quantity": 1548, "price": null}
+{"sequence": 288, "timestamp_ms": 28700, "type": "LIMIT", "order_id": "E288", "side": "BUY", "quantity": 821, "price": 9991}
+{"sequence": 289, "timestamp_ms": 28800, "type": "LIMIT", "order_id": "E289", "side": "SELL", "quantity": 836, "price": 10003}
+{"sequence": 290, "timestamp_ms": 28900, "type": "LIMIT", "order_id": "E290", "side": "BUY", "quantity": 773, "price": 9992}
+{"sequence": 291, "timestamp_ms": 29000, "type": "MARKET", "order_id": "E291", "side": "SELL", "quantity": 1371, "price": null}
+{"sequence": 292, "timestamp_ms": 29100, "type": "LIMIT", "order_id": "E292", "side": "BUY", "quantity": 581, "price": 9989}
+{"sequence": 293, "timestamp_ms": 29200, "type": "LIMIT", "order_id": "E293", "side": "SELL", "quantity": 811, "price": 10006}
+{"sequence": 294, "timestamp_ms": 29300, "type": "LIMIT", "order_id": "E294", "side": "SELL", "quantity": 223, "price": 10003}
+{"sequence": 295, "timestamp_ms": 29400, "type": "LIMIT", "order_id": "E295", "side": "BUY", "quantity": 422, "price": 9987}
+{"sequence": 296, "timestamp_ms": 29500, "type": "MARKET", "order_id": "E296", "side": "SELL", "quantity": 109, "price": null}
+{"sequence": 297, "timestamp_ms": 29600, "type": "MARKET", "order_id": "E297", "side": "BUY", "quantity": 1681, "price": null}
+{"sequence": 298, "timestamp_ms": 29700, "type": "MARKET", "order_id": "E298", "side": "SELL", "quantity": 1642, "price": null}
+{"sequence": 299, "timestamp_ms": 29800, "type": "LIMIT", "order_id": "E299", "side": "BUY", "quantity": 67, "price": 9989}
+{"sequence": 300, "timestamp_ms": 29900, "type": "CANCEL", "order_id": "E284"}
+{"sequence": 301, "timestamp_ms": 30000, "type": "MARKET", "order_id": "E301", "side": "BUY", "quantity": 1750, "price": null}
+{"sequence": 302, "timestamp_ms": 30100, "type": "LIMIT", "order_id": "E302", "side": "SELL", "quantity": 769, "price": 9998}
+{"sequence": 303, "timestamp_ms": 30200, "type": "CANCEL", "order_id": "E142"}
+{"sequence": 304, "timestamp_ms": 30300, "type": "CANCEL", "order_id": "E201"}
+{"sequence": 305, "timestamp_ms": 30400, "type": "MARKET", "order_id": "E305", "side": "SELL", "quantity": 1350, "price": null}
+{"sequence": 306, "timestamp_ms": 30500, "type": "CANCEL", "order_id": "E256"}
+{"sequence": 307, "timestamp_ms": 30600, "type": "LIMIT", "order_id": "E307", "side": "SELL", "quantity": 671, "price": 9999}
+{"sequence": 308, "timestamp_ms": 30700, "type": "LIMIT", "order_id": "E308", "side": "SELL", "quantity": 66, "price": 10002}
+{"sequence": 309, "timestamp_ms": 30800, "type": "LIMIT", "order_id": "E309", "side": "BUY", "quantity": 262, "price": 9988}
+{"sequence": 310, "timestamp_ms": 30900, "type": "LIMIT", "order_id": "E310", "side": "SELL", "quantity": 808, "price": 9995}
+{"sequence": 311, "timestamp_ms": 31000, "type": "LIMIT", "order_id": "E311", "side": "BUY", "quantity": 200, "price": 9984}
+{"sequence": 312, "timestamp_ms": 31100, "type": "LIMIT", "order_id": "E312", "side": "BUY", "quantity": 362, "price": 9991}
+{"sequence": 313, "timestamp_ms": 31200, "type": "LIMIT", "order_id": "E313", "side": "SELL", "quantity": 413, "price": 9999}
+{"sequence": 314, "timestamp_ms": 31300, "type": "LIMIT", "order_id": "E314", "side": "BUY", "quantity": 451, "price": 9984}
+{"sequence": 315, "timestamp_ms": 31400, "type": "LIMIT", "order_id": "E315", "side": "BUY", "quantity": 209, "price": 9990}
+{"sequence": 316, "timestamp_ms": 31500, "type": "CANCEL", "order_id": "E276"}
+{"sequence": 317, "timestamp_ms": 31600, "type": "LIMIT", "order_id": "E317", "side": "BUY", "quantity": 627, "price": 9985}
+{"sequence": 318, "timestamp_ms": 31700, "type": "CANCEL", "order_id": "E299"}
+{"sequence": 319, "timestamp_ms": 31800, "type": "LIMIT", "order_id": "E319", "side": "SELL", "quantity": 712, "price": 9998}
+{"sequence": 320, "timestamp_ms": 31900, "type": "CANCEL", "order_id": "E302"}
+{"sequence": 321, "timestamp_ms": 32000, "type": "LIMIT", "order_id": "E321", "side": "BUY", "quantity": 482, "price": 9991}
+{"sequence": 322, "timestamp_ms": 32100, "type": "LIMIT", "order_id": "E322", "side": "SELL", "quantity": 736, "price": 10000}
+{"sequence": 323, "timestamp_ms": 32200, "type": "MARKET", "order_id": "E323", "side": "SELL", "quantity": 427, "price": null}
+{"sequence": 324, "timestamp_ms": 32300, "type": "LIMIT", "order_id": "E324", "side": "SELL", "quantity": 272, "price": 9995}
+{"sequence": 325, "timestamp_ms": 32400, "type": "MARKET", "order_id": "E325", "side": "BUY", "quantity": 625, "price": null}
+{"sequence": 326, "timestamp_ms": 32500, "type": "LIMIT", "order_id": "E326", "side": "SELL", "quantity": 879, "price": 9994}
+{"sequence": 327, "timestamp_ms": 32600, "type": "LIMIT", "order_id": "E327", "side": "SELL", "quantity": 609, "price": 9993}
+{"sequence": 328, "timestamp_ms": 32700, "type": "LIMIT", "order_id": "E328", "side": "BUY", "quantity": 793, "price": 9982}
+{"sequence": 329, "timestamp_ms": 32800, "type": "LIMIT", "order_id": "E329", "side": "SELL", "quantity": 651, "price": 9996}
+{"sequence": 330, "timestamp_ms": 32900, "type": "LIMIT", "order_id": "E330", "side": "BUY", "quantity": 665, "price": 9988}
+{"sequence": 331, "timestamp_ms": 33000, "type": "MARKET", "order_id": "E331", "side": "SELL", "quantity": 1591, "price": null}
+{"sequence": 332, "timestamp_ms": 33100, "type": "LIMIT", "order_id": "E332", "side": "BUY", "quantity": 672, "price": 9989}
+{"sequence": 333, "timestamp_ms": 33200, "type": "LIMIT", "order_id": "E333", "side": "SELL", "quantity": 64, "price": 9999}
+{"sequence": 334, "timestamp_ms": 33300, "type": "LIMIT", "order_id": "E334", "side": "BUY", "quantity": 332, "price": 9989}
+{"sequence": 335, "timestamp_ms": 33400, "type": "MARKET", "order_id": "E335", "side": "BUY", "quantity": 431, "price": null}
+{"sequence": 336, "timestamp_ms": 33500, "type": "CANCEL", "order_id": "E317"}
+{"sequence": 337, "timestamp_ms": 33600, "type": "LIMIT", "order_id": "E337", "side": "SELL", "quantity": 543, "price": 10000}
+{"sequence": 338, "timestamp_ms": 33700, "type": "LIMIT", "order_id": "E338", "side": "BUY", "quantity": 874, "price": 9986}
+{"sequence": 339, "timestamp_ms": 33800, "type": "LIMIT", "order_id": "E339", "side": "SELL", "quantity": 853, "price": 9997}
+{"sequence": 340, "timestamp_ms": 33900, "type": "CANCEL", "order_id": "E46"}
+{"sequence": 341, "timestamp_ms": 34000, "type": "CANCEL", "order_id": "E204"}
+{"sequence": 342, "timestamp_ms": 34100, "type": "LIMIT", "order_id": "E342", "side": "SELL", "quantity": 404, "price": 10000}
+{"sequence": 343, "timestamp_ms": 34200, "type": "CANCEL", "order_id": "E307"}
+{"sequence": 344, "timestamp_ms": 34300, "type": "CANCEL", "order_id": "E326"}
+{"sequence": 345, "timestamp_ms": 34400, "type": "CANCEL", "order_id": "E293"}
+{"sequence": 346, "timestamp_ms": 34500, "type": "LIMIT", "order_id": "E346", "side": "SELL", "quantity": 420, "price": 10001}
+{"sequence": 347, "timestamp_ms": 34600, "type": "LIMIT", "order_id": "E347", "side": "SELL", "quantity": 721, "price": 9993}
+{"sequence": 348, "timestamp_ms": 34700, "type": "MARKET", "order_id": "E348", "side": "BUY", "quantity": 1169, "price": null}
+{"sequence": 349, "timestamp_ms": 34800, "type": "MARKET", "order_id": "E349", "side": "SELL", "quantity": 1346, "price": null}
+{"sequence": 350, "timestamp_ms": 34900, "type": "CANCEL", "order_id": "E324"}
+{"sequence": 351, "timestamp_ms": 35000, "type": "LIMIT", "order_id": "E351", "side": "SELL", "quantity": 149, "price": 9999}
+{"sequence": 352, "timestamp_ms": 35100, "type": "CANCEL", "order_id": "E31"}
+{"sequence": 353, "timestamp_ms": 35200, "type": "MARKET", "order_id": "E353", "side": "BUY", "quantity": 219, "price": null}
+{"sequence": 354, "timestamp_ms": 35300, "type": "MARKET", "order_id": "E354", "side": "SELL", "quantity": 815, "price": null}
+{"sequence": 355, "timestamp_ms": 35400, "type": "LIMIT", "order_id": "E355", "side": "SELL", "quantity": 790, "price": 10002}
+{"sequence": 356, "timestamp_ms": 35500, "type": "LIMIT", "order_id": "E356", "side": "SELL", "quantity": 883, "price": 9994}
+{"sequence": 357, "timestamp_ms": 35600, "type": "LIMIT", "order_id": "E357", "side": "SELL", "quantity": 63, "price": 9996}
+{"sequence": 358, "timestamp_ms": 35700, "type": "LIMIT", "order_id": "E358", "side": "BUY", "quantity": 485, "price": 9983}
+{"sequence": 359, "timestamp_ms": 35800, "type": "LIMIT", "order_id": "E359", "side": "SELL", "quantity": 732, "price": 9993}
+{"sequence": 360, "timestamp_ms": 35900, "type": "MARKET", "order_id": "E360", "side": "SELL", "quantity": 1340, "price": null}
+{"sequence": 361, "timestamp_ms": 36000, "type": "MARKET", "order_id": "E361", "side": "BUY", "quantity": 408, "price": null}
+{"sequence": 362, "timestamp_ms": 36100, "type": "LIMIT", "order_id": "E362", "side": "SELL", "quantity": 708, "price": 9992}
+{"sequence": 363, "timestamp_ms": 36200, "type": "MARKET", "order_id": "E363", "side": "SELL", "quantity": 63, "price": null}
+{"sequence": 364, "timestamp_ms": 36300, "type": "CANCEL", "order_id": "E313"}
+{"sequence": 365, "timestamp_ms": 36400, "type": "MARKET", "order_id": "E365", "side": "BUY", "quantity": 1176, "price": null}
+{"sequence": 366, "timestamp_ms": 36500, "type": "MARKET", "order_id": "E366", "side": "SELL", "quantity": 1155, "price": null}
+{"sequence": 367, "timestamp_ms": 36600, "type": "MARKET", "order_id": "E367", "side": "BUY", "quantity": 497, "price": null}
+{"sequence": 368, "timestamp_ms": 36700, "type": "MARKET", "order_id": "E368", "side": "BUY", "quantity": 1240, "price": null}
+{"sequence": 369, "timestamp_ms": 36800, "type": "CANCEL", "order_id": "E169"}
+{"sequence": 370, "timestamp_ms": 36900, "type": "LIMIT", "order_id": "E370", "side": "SELL", "quantity": 142, "price": 9994}
+{"sequence": 371, "timestamp_ms": 37000, "type": "LIMIT", "order_id": "E371", "side": "BUY", "quantity": 45, "price": 9987}
+{"sequence": 372, "timestamp_ms": 37100, "type": "MARKET", "order_id": "E372", "side": "SELL", "quantity": 1225, "price": null}
+{"sequence": 373, "timestamp_ms": 37200, "type": "MARKET", "order_id": "E373", "side": "BUY", "quantity": 127, "price": null}
+{"sequence": 374, "timestamp_ms": 37300, "type": "CANCEL", "order_id": "E226"}
+{"sequence": 375, "timestamp_ms": 37400, "type": "LIMIT", "order_id": "E375", "side": "BUY", "quantity": 489, "price": 9981}
+{"sequence": 376, "timestamp_ms": 37500, "type": "LIMIT", "order_id": "E376", "side": "BUY", "quantity": 545, "price": 9981}
+{"sequence": 377, "timestamp_ms": 37600, "type": "MARKET", "order_id": "E377", "side": "SELL", "quantity": 1509, "price": null}
+{"sequence": 378, "timestamp_ms": 37700, "type": "LIMIT", "order_id": "E378", "side": "SELL", "quantity": 688, "price": 9996}
+{"sequence": 379, "timestamp_ms": 37800, "type": "LIMIT", "order_id": "E379", "side": "BUY", "quantity": 897, "price": 9980}
+{"sequence": 380, "timestamp_ms": 37900, "type": "LIMIT", "order_id": "E380", "side": "BUY", "quantity": 759, "price": 9980}
+{"sequence": 381, "timestamp_ms": 38000, "type": "LIMIT", "order_id": "E381", "side": "BUY", "quantity": 359, "price": 9986}
+{"sequence": 382, "timestamp_ms": 38100, "type": "LIMIT", "order_id": "E382", "side": "BUY", "quantity": 311, "price": 9987}
+{"sequence": 383, "timestamp_ms": 38200, "type": "LIMIT", "order_id": "E383", "side": "SELL", "quantity": 641, "price": 9997}
+{"sequence": 384, "timestamp_ms": 38300, "type": "LIMIT", "order_id": "E384", "side": "SELL", "quantity": 649, "price": 9999}
+{"sequence": 385, "timestamp_ms": 38400, "type": "LIMIT", "order_id": "E385", "side": "BUY", "quantity": 768, "price": 9981}
+{"sequence": 386, "timestamp_ms": 38500, "type": "LIMIT", "order_id": "E386", "side": "SELL", "quantity": 263, "price": 9998}
+{"sequence": 387, "timestamp_ms": 38600, "type": "LIMIT", "order_id": "E387", "side": "SELL", "quantity": 455, "price": 9997}
+{"sequence": 388, "timestamp_ms": 38700, "type": "LIMIT", "order_id": "E388", "side": "SELL", "quantity": 350, "price": 9997}
+{"sequence": 389, "timestamp_ms": 38800, "type": "LIMIT", "order_id": "E389", "side": "SELL", "quantity": 733, "price": 9993}
+{"sequence": 390, "timestamp_ms": 38900, "type": "LIMIT", "order_id": "E390", "side": "BUY", "quantity": 881, "price": 9988}
+{"sequence": 391, "timestamp_ms": 39000, "type": "CANCEL", "order_id": "E376"}
+{"sequence": 392, "timestamp_ms": 39100, "type": "CANCEL", "order_id": "E351"}
+{"sequence": 393, "timestamp_ms": 39200, "type": "LIMIT", "order_id": "E393", "side": "BUY", "quantity": 605, "price": 9980}
+{"sequence": 394, "timestamp_ms": 39300, "type": "LIMIT", "order_id": "E394", "side": "BUY", "quantity": 392, "price": 9983}
+{"sequence": 395, "timestamp_ms": 39400, "type": "LIMIT", "order_id": "E395", "side": "SELL", "quantity": 324, "price": 9991}
+{"sequence": 396, "timestamp_ms": 39500, "type": "LIMIT", "order_id": "E396", "side": "SELL", "quantity": 621, "price": 9991}
+{"sequence": 397, "timestamp_ms": 39600, "type": "LIMIT", "order_id": "E397", "side": "BUY", "quantity": 259, "price": 9981}
+{"sequence": 398, "timestamp_ms": 39700, "type": "LIMIT", "order_id": "E398", "side": "SELL", "quantity": 406, "price": 9998}
+{"sequence": 399, "timestamp_ms": 39800, "type": "CANCEL", "order_id": "E328"}
+{"sequence": 400, "timestamp_ms": 39900, "type": "LIMIT", "order_id": "E400", "side": "SELL", "quantity": 815, "price": 9998}
+{"sequence": 401, "timestamp_ms": 40000, "type": "LIMIT", "order_id": "E401", "side": "BUY", "quantity": 703, "price": 9979}
+{"sequence": 402, "timestamp_ms": 40100, "type": "LIMIT", "order_id": "E402", "side": "SELL", "quantity": 214, "price": 9990}
+{"sequence": 403, "timestamp_ms": 40200, "type": "MARKET", "order_id": "E403", "side": "SELL", "quantity": 715, "price": null}
+{"sequence": 404, "timestamp_ms": 40300, "type": "MARKET", "order_id": "E404", "side": "BUY", "quantity": 313, "price": null}
+{"sequence": 405, "timestamp_ms": 40400, "type": "LIMIT", "order_id": "E405", "side": "SELL", "quantity": 175, "price": 9991}
+{"sequence": 406, "timestamp_ms": 40500, "type": "LIMIT", "order_id": "E406", "side": "BUY", "quantity": 794, "price": 9987}
+{"sequence": 407, "timestamp_ms": 40600, "type": "LIMIT", "order_id": "E407", "side": "SELL", "quantity": 494, "price": 9996}
+{"sequence": 408, "timestamp_ms": 40700, "type": "MARKET", "order_id": "E408", "side": "BUY", "quantity": 1497, "price": null}
+{"sequence": 409, "timestamp_ms": 40800, "type": "MARKET", "order_id": "E409", "side": "SELL", "quantity": 1241, "price": null}
+{"sequence": 410, "timestamp_ms": 40900, "type": "CANCEL", "order_id": "E52"}
+{"sequence": 411, "timestamp_ms": 41000, "type": "MARKET", "order_id": "E411", "side": "SELL", "quantity": 121, "price": null}
+{"sequence": 412, "timestamp_ms": 41100, "type": "LIMIT", "order_id": "E412", "side": "SELL", "quantity": 707, "price": 9997}
+{"sequence": 413, "timestamp_ms": 41200, "type": "LIMIT", "order_id": "E413", "side": "SELL", "quantity": 309, "price": 9996}
+{"sequence": 414, "timestamp_ms": 41300, "type": "MARKET", "order_id": "E414", "side": "SELL", "quantity": 726, "price": null}
+{"sequence": 415, "timestamp_ms": 41400, "type": "LIMIT", "order_id": "E415", "side": "SELL", "quantity": 528, "price": 9997}
+{"sequence": 416, "timestamp_ms": 41500, "type": "LIMIT", "order_id": "E416", "side": "SELL", "quantity": 255, "price": 9988}
+{"sequence": 417, "timestamp_ms": 41600, "type": "MARKET", "order_id": "E417", "side": "SELL", "quantity": 35, "price": null}
+{"sequence": 418, "timestamp_ms": 41700, "type": "MARKET", "order_id": "E418", "side": "SELL", "quantity": 1591, "price": null}
+{"sequence": 419, "timestamp_ms": 41800, "type": "CANCEL", "order_id": "E333"}
+{"sequence": 420, "timestamp_ms": 41900, "type": "MARKET", "order_id": "E420", "side": "BUY", "quantity": 1038, "price": null}
+{"sequence": 421, "timestamp_ms": 42000, "type": "LIMIT", "order_id": "E421", "side": "BUY", "quantity": 419, "price": 9985}
+{"sequence": 422, "timestamp_ms": 42100, "type": "LIMIT", "order_id": "E422", "side": "BUY", "quantity": 602, "price": 9981}
+{"sequence": 423, "timestamp_ms": 42200, "type": "LIMIT", "order_id": "E423", "side": "SELL", "quantity": 436, "price": 9992}
+{"sequence": 424, "timestamp_ms": 42300, "type": "LIMIT", "order_id": "E424", "side": "BUY", "quantity": 49, "price": 9981}
+{"sequence": 425, "timestamp_ms": 42400, "type": "LIMIT", "order_id": "E425", "side": "BUY", "quantity": 619, "price": 9982}
+{"sequence": 426, "timestamp_ms": 42500, "type": "LIMIT", "order_id": "E426", "side": "SELL", "quantity": 326, "price": 9995}
+{"sequence": 427, "timestamp_ms": 42600, "type": "CANCEL", "order_id": "E20"}
+{"sequence": 428, "timestamp_ms": 42700, "type": "LIMIT", "order_id": "E428", "side": "BUY", "quantity": 501, "price": 9978}
+{"sequence": 429, "timestamp_ms": 42800, "type": "LIMIT", "order_id": "E429", "side": "SELL", "quantity": 477, "price": 9990}
+{"sequence": 430, "timestamp_ms": 42900, "type": "LIMIT", "order_id": "E430", "side": "BUY", "quantity": 633, "price": 9980}
+{"sequence": 431, "timestamp_ms": 43000, "type": "LIMIT", "order_id": "E431", "side": "BUY", "quantity": 347, "price": 9980}
+{"sequence": 432, "timestamp_ms": 43100, "type": "LIMIT", "order_id": "E432", "side": "BUY", "quantity": 827, "price": 9981}
+{"sequence": 433, "timestamp_ms": 43200, "type": "MARKET", "order_id": "E433", "side": "SELL", "quantity": 253, "price": null}
+{"sequence": 434, "timestamp_ms": 43300, "type": "LIMIT", "order_id": "E434", "side": "BUY", "quantity": 389, "price": 9981}
+{"sequence": 435, "timestamp_ms": 43400, "type": "LIMIT", "order_id": "E435", "side": "BUY", "quantity": 135, "price": 9983}
+{"sequence": 436, "timestamp_ms": 43500, "type": "CANCEL", "order_id": "E308"}
+{"sequence": 437, "timestamp_ms": 43600, "type": "MARKET", "order_id": "E437", "side": "BUY", "quantity": 1574, "price": null}
+{"sequence": 438, "timestamp_ms": 43700, "type": "LIMIT", "order_id": "E438", "side": "BUY", "quantity": 505, "price": 9982}
+{"sequence": 439, "timestamp_ms": 43800, "type": "LIMIT", "order_id": "E439", "side": "SELL", "quantity": 688, "price": 10000}
+{"sequence": 440, "timestamp_ms": 43900, "type": "LIMIT", "order_id": "E440", "side": "SELL", "quantity": 184, "price": 9996}
+{"sequence": 441, "timestamp_ms": 44000, "type": "LIMIT", "order_id": "E441", "side": "SELL", "quantity": 676, "price": 9998}
+{"sequence": 442, "timestamp_ms": 44100, "type": "MARKET", "order_id": "E442", "side": "BUY", "quantity": 135, "price": null}
+{"sequence": 443, "timestamp_ms": 44200, "type": "MARKET", "order_id": "E443", "side": "BUY", "quantity": 965, "price": null}
+{"sequence": 444, "timestamp_ms": 44300, "type": "LIMIT", "order_id": "E444", "side": "BUY", "quantity": 881, "price": 9985}
+{"sequence": 445, "timestamp_ms": 44400, "type": "MARKET", "order_id": "E445", "side": "SELL", "quantity": 1771, "price": null}
+{"sequence": 446, "timestamp_ms": 44500, "type": "CANCEL", "order_id": "E432"}
+{"sequence": 447, "timestamp_ms": 44600, "type": "LIMIT", "order_id": "E447", "side": "SELL", "quantity": 597, "price": 9999}
+{"sequence": 448, "timestamp_ms": 44700, "type": "LIMIT", "order_id": "E448", "side": "BUY", "quantity": 859, "price": 9981}
+{"sequence": 449, "timestamp_ms": 44800, "type": "LIMIT", "order_id": "E449", "side": "BUY", "quantity": 649, "price": 9983}
+{"sequence": 450, "timestamp_ms": 44900, "type": "LIMIT", "order_id": "E450", "side": "BUY", "quantity": 491, "price": 9989}
+{"sequence": 451, "timestamp_ms": 45000, "type": "CANCEL", "order_id": "E383"}
+{"sequence": 452, "timestamp_ms": 45100, "type": "LIMIT", "order_id": "E452", "side": "BUY", "quantity": 691, "price": 9984}
+{"sequence": 453, "timestamp_ms": 45200, "type": "MARKET", "order_id": "E453", "side": "BUY", "quantity": 916, "price": null}
+{"sequence": 454, "timestamp_ms": 45300, "type": "LIMIT", "order_id": "E454", "side": "BUY", "quantity": 411, "price": 9987}
+{"sequence": 455, "timestamp_ms": 45400, "type": "LIMIT", "order_id": "E455", "side": "SELL", "quantity": 823, "price": 10000}
+{"sequence": 456, "timestamp_ms": 45500, "type": "MARKET", "order_id": "E456", "side": "SELL", "quantity": 1636, "price": null}
+{"sequence": 457, "timestamp_ms": 45600, "type": "LIMIT", "order_id": "E457", "side": "SELL", "quantity": 367, "price": 9992}
+{"sequence": 458, "timestamp_ms": 45700, "type": "CANCEL", "order_id": "E400"}
+{"sequence": 459, "timestamp_ms": 45800, "type": "MARKET", "order_id": "E459", "side": "SELL", "quantity": 1364, "price": null}
+{"sequence": 460, "timestamp_ms": 45900, "type": "LIMIT", "order_id": "E460", "side": "BUY", "quantity": 113, "price": 9980}
+{"sequence": 461, "timestamp_ms": 46000, "type": "LIMIT", "order_id": "E461", "side": "BUY", "quantity": 347, "price": 9980}
+{"sequence": 462, "timestamp_ms": 46100, "type": "LIMIT", "order_id": "E462", "side": "SELL", "quantity": 639, "price": 9989}
+{"sequence": 463, "timestamp_ms": 46200, "type": "LIMIT", "order_id": "E463", "side": "BUY", "quantity": 602, "price": 9980}
+{"sequence": 464, "timestamp_ms": 46300, "type": "MARKET", "order_id": "E464", "side": "SELL", "quantity": 1685, "price": null}
+{"sequence": 465, "timestamp_ms": 46400, "type": "CANCEL", "order_id": "E455"}
+{"sequence": 466, "timestamp_ms": 46500, "type": "CANCEL", "order_id": "E428"}
+{"sequence": 467, "timestamp_ms": 46600, "type": "LIMIT", "order_id": "E467", "side": "BUY", "quantity": 346, "price": 9978}
+{"sequence": 468, "timestamp_ms": 46700, "type": "MARKET", "order_id": "E468", "side": "BUY", "quantity": 1589, "price": null}
+{"sequence": 469, "timestamp_ms": 46800, "type": "LIMIT", "order_id": "E469", "side": "BUY", "quantity": 188, "price": 9985}
+{"sequence": 470, "timestamp_ms": 46900, "type": "CANCEL", "order_id": "E168"}
+{"sequence": 471, "timestamp_ms": 47000, "type": "LIMIT", "order_id": "E471", "side": "BUY", "quantity": 814, "price": 9985}
+{"sequence": 472, "timestamp_ms": 47100, "type": "LIMIT", "order_id": "E472", "side": "SELL", "quantity": 196, "price": 9994}
+{"sequence": 473, "timestamp_ms": 47200, "type": "MARKET", "order_id": "E473", "side": "SELL", "quantity": 1299, "price": null}
+{"sequence": 474, "timestamp_ms": 47300, "type": "LIMIT", "order_id": "E474", "side": "BUY", "quantity": 74, "price": 9979}
+{"sequence": 475, "timestamp_ms": 47400, "type": "LIMIT", "order_id": "E475", "side": "BUY", "quantity": 655, "price": 9979}
+{"sequence": 476, "timestamp_ms": 47500, "type": "MARKET", "order_id": "E476", "side": "SELL", "quantity": 939, "price": null}
+{"sequence": 477, "timestamp_ms": 47600, "type": "MARKET", "order_id": "E477", "side": "BUY", "quantity": 1676, "price": null}
+{"sequence": 478, "timestamp_ms": 47700, "type": "LIMIT", "order_id": "E478", "side": "BUY", "quantity": 724, "price": 9983}
+{"sequence": 479, "timestamp_ms": 47800, "type": "LIMIT", "order_id": "E479", "side": "SELL", "quantity": 817, "price": 9998}
+{"sequence": 480, "timestamp_ms": 47900, "type": "MARKET", "order_id": "E480", "side": "BUY", "quantity": 1100, "price": null}
+{"sequence": 481, "timestamp_ms": 48000, "type": "LIMIT", "order_id": "E481", "side": "BUY", "quantity": 850, "price": 9986}
+{"sequence": 482, "timestamp_ms": 48100, "type": "LIMIT", "order_id": "E482", "side": "SELL", "quantity": 686, "price": 9993}
+{"sequence": 483, "timestamp_ms": 48200, "type": "LIMIT", "order_id": "E483", "side": "SELL", "quantity": 135, "price": 9998}
+{"sequence": 484, "timestamp_ms": 48300, "type": "LIMIT", "order_id": "E484", "side": "BUY", "quantity": 115, "price": 9984}
+{"sequence": 485, "timestamp_ms": 48400, "type": "LIMIT", "order_id": "E485", "side": "SELL", "quantity": 555, "price": 9997}
+{"sequence": 486, "timestamp_ms": 48500, "type": "CANCEL", "order_id": "E463"}
+{"sequence": 487, "timestamp_ms": 48600, "type": "CANCEL", "order_id": "E346"}
+{"sequence": 488, "timestamp_ms": 48700, "type": "LIMIT", "order_id": "E488", "side": "SELL", "quantity": 454, "price": 9990}
+{"sequence": 489, "timestamp_ms": 48800, "type": "CANCEL", "order_id": "E482"}
+{"sequence": 490, "timestamp_ms": 48900, "type": "MARKET", "order_id": "E490", "side": "BUY", "quantity": 187, "price": null}
+{"sequence": 491, "timestamp_ms": 49000, "type": "MARKET", "order_id": "E491", "side": "BUY", "quantity": 222, "price": null}
+{"sequence": 492, "timestamp_ms": 49100, "type": "LIMIT", "order_id": "E492", "side": "SELL", "quantity": 170, "price": 9991}
+{"sequence": 493, "timestamp_ms": 49200, "type": "CANCEL", "order_id": "E479"}
+{"sequence": 494, "timestamp_ms": 49300, "type": "LIMIT", "order_id": "E494", "side": "BUY", "quantity": 489, "price": 9980}
+{"sequence": 495, "timestamp_ms": 49400, "type": "LIMIT", "order_id": "E495", "side": "BUY", "quantity": 292, "price": 9987}
+{"sequence": 496, "timestamp_ms": 49500, "type": "MARKET", "order_id": "E496", "side": "BUY", "quantity": 1509, "price": null}
+{"sequence": 497, "timestamp_ms": 49600, "type": "LIMIT", "order_id": "E497", "side": "SELL", "quantity": 824, "price": 9995}
+{"sequence": 498, "timestamp_ms": 49700, "type": "MARKET", "order_id": "E498", "side": "BUY", "quantity": 117, "price": null}
+{"sequence": 499, "timestamp_ms": 49800, "type": "MARKET", "order_id": "E499", "side": "SELL", "quantity": 1295, "price": null}
+{"sequence": 500, "timestamp_ms": 49900, "type": "LIMIT", "order_id": "E500", "side": "BUY", "quantity": 641, "price": 9981}

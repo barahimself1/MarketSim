@@ -1,0 +1,13 @@
+# Delivery audit
+
+Core suite: 29 tests passed. Tests cover priority, cancellations, partial execution, crossing limits, invalid values, invariants over generated events, replay determinism, serialization, data validation, allocation conservation, five-strategy quantity conservation, TCA identity, slippage and incomplete completion times.
+
+Actual benchmark sizes: 10,000, 100,000 and 1,000,000 commands. The one-million-command workload took 9.889944 seconds on the recorded Python 3.12.14 Linux host. It alternates insert/cancel and generates no trades. Measurements exclude I/O, rendering and snapshots. No claimed optimization delta or latency percentile is fabricated.
+
+Browser verification exercised all 16 workspace sections, BUY and SELL execution comparisons, replay stepping, cancellation filtering and before/after inspection, manual price-priority matching, regime regeneration, experiment execution and persistence across reload. JavaScript modules passed syntax checks. Three screenshots document the overview, execution comparison and cost decomposition. The CSS provides responsive breakpoints, but physical-device and formal accessibility certification were not performed.
+
+The repository contains no credentials, private accounts or external transaction integrations. Input quantities, IDs, prices, scenario sizes, payload sizes and concurrency are bounded. User-facing values are escaped and detail records use textContent. This is a reviewed reference application, not a certified production exchange or security-audited internet service. See deployment requirements before public hosting.
+
+Known boundaries: synthetic-only browser sessions; canonical historical loader is a Python interface; no venue-specific historical adapter, hidden-liquidity model, queue uncertainty sweep, arbitrary price aggregation, instrument switcher, calibrated latency/volatility controls, or causal market-impact model. Matching-engine rejection is an exception response rather than a persisted rejected-order record. Experiments are saved in browser local storage and exported manually. These limitations are documented instead of represented by fake controls or metrics.
+
+The package preserves six 20-seed experiment runs (600 strategy evaluations), full configuration and per-episode observations, including unavailable terminal-mark costs. The implementation is a working v1.0 research foundation. The README and career materials identify implemented mechanics and measured performance; they do not claim real-world execution superiority. Docker and CI configuration are included but have not been executed on a remote host in this session.

@@ -1,0 +1,16 @@
+{
+  "kind": "SYNTHETIC",
+  "instrument": "SIM-USD",
+  "generator": "marketsim.simulation.generate",
+  "version": "1.0.0",
+  "seed": 42,
+  "regime": "Deep",
+  "event_count": 500,
+  "price_unit": "integer cents",
+  "quantity_unit": "integer lots",
+  "interval_ms": 100,
+  "license": "MIT",
+  "source_file": "events.jsonl",
+  "sha256": "46ae0546b71d6de78fa6fc93176da679b816f08edeb56d65f8ce2bace9b3cc5c",
+  "historical_exchange_data": false
+}
